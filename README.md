@@ -25,7 +25,7 @@ A lightweight, custom-built 3D engine developed in C++ and OpenGL 3.3. This proj
 
 * **Left Click:** Select and "Destroy" 3D objects in the scene.
 * **Engine UI:**
-* * `Object Count`: Set how many objects spawn.
-    * `Displacement`: Adjust the randomness of object positions.
-    * `Regenerate`: Clear and respawn the scene.
-    * `Light XYZ`: Move the global light source.
+   * `Object Count`: Set how many objects spawn.
+   * `Displacement`: Adjust the randomness of object positions.
+   * `Regenerate`: Clear and respawn the scene.
+   * `Light XYZ`: Move the global light source.
